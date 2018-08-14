@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Prasoon Gupta\Google Drive\Android_programming\Udacity_assignments\CricketScore\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\Prasoon Gupta\Google Drive\Android_programming\Udacity_assignments\CricketScore\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.0_a72972e11f2558bde37a57548e1450b5cfc72505.jar" />
+    </item>
+    <item
+        jar="C:\Users\Prasoon Gupta\Google Drive\Android_programming\Udacity_assignments\CricketScore\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\Prasoon Gupta\Google Drive\Android_programming\Udacity_assignments\CricketScore\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_cd5a351bde8bfdcab8db65f23c2f0afebba41233.jar" />
+    </item>
+    <item
+        jar="C:\Users\Prasoon Gupta\Google Drive\Android_programming\Udacity_assignments\CricketScore\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\Prasoon Gupta\Google Drive\Android_programming\Udacity_assignments\CricketScore\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.0_7c8be5ca333a26f10b43a4d8cc0fc6afd635c65d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Prasoon Gupta\Google Drive\Android_programming\Udacity_assignments\CricketScore\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\Prasoon Gupta\Google Drive\Android_programming\Udacity_assignments\CricketScore\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_04ff951942934834c55bcabc5837041e292a64d4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Prasoon Gupta\Google Drive\Android_programming\Udacity_assignments\CricketScore\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\Prasoon Gupta\Google Drive\Android_programming\Udacity_assignments\CricketScore\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.0_cbfa0aa7d5d57b2b933c22eb1fc25f7db52cfaa1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Prasoon Gupta\Google Drive\Android_programming\Udacity_assignments\CricketScore\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\Prasoon Gupta\Google Drive\Android_programming\Udacity_assignments\CricketScore\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.0_0a493c5ab8dd6d277e29ba2afdcc9b4b9ca06bbf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Prasoon Gupta\Google Drive\Android_programming\Udacity_assignments\CricketScore\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\Prasoon Gupta\Google Drive\Android_programming\Udacity_assignments\CricketScore\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_c72cd2bfcbe443dac1659f26ce8f2c7f22551f47.jar" />
+    </item>
+    <item
+        jar="C:\Users\Prasoon Gupta\Google Drive\Android_programming\Udacity_assignments\CricketScore\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\Prasoon Gupta\Google Drive\Android_programming\Udacity_assignments\CricketScore\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.0_2d683c1815a1e81414085407e2929255faee029d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Prasoon Gupta\Google Drive\Android_programming\Udacity_assignments\CricketScore\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\Prasoon Gupta\Google Drive\Android_programming\Udacity_assignments\CricketScore\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.0_b8e86e09501d724eb3484619953cf21c6ca43a9a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Prasoon Gupta\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\Prasoon Gupta\Google Drive\Android_programming\Udacity_assignments\CricketScore\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.0_4ab6f25bc7d53030782c1df8852906967efe162d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Prasoon Gupta\Google Drive\Android_programming\Udacity_assignments\CricketScore\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\Prasoon Gupta\Google Drive\Android_programming\Udacity_assignments\CricketScore\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.0_78d2c8f458976f3cf3abf6e7e7104667fc113689.jar" />
+    </item>
+    <item
+        jar="C:\Users\Prasoon Gupta\Google Drive\Android_programming\Udacity_assignments\CricketScore\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\Prasoon Gupta\Google Drive\Android_programming\Udacity_assignments\CricketScore\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.0_1fd0a6520133d5be5cd6a03da6f9c4574e358202.jar" />
+    </item>
+    <item
+        jar="C:\Users\Prasoon Gupta\Google Drive\Android_programming\Udacity_assignments\CricketScore\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\Prasoon Gupta\Google Drive\Android_programming\Udacity_assignments\CricketScore\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_20615d0bc5e82e69e0dfd77a217cf4677997815e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Prasoon Gupta\Google Drive\Android_programming\Udacity_assignments\CricketScore\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\Prasoon Gupta\Google Drive\Android_programming\Udacity_assignments\CricketScore\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_7ad88b88d4f56ba79db2e6f32ffde5b52c10b35f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Prasoon Gupta\Google Drive\Android_programming\Udacity_assignments\CricketScore\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\Prasoon Gupta\Google Drive\Android_programming\Udacity_assignments\CricketScore\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.0_eb3c24fc2e767fcd50cbb58838f41009ac278add.jar" />
+    </item>
+
+</items>
