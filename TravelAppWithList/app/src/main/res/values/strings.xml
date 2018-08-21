@@ -1,0 +1,120 @@
+<resources>
+    <string name="app_name">TravelAppWithList</string>
+    <string name="restaurantactivity">Restaurants</string>
+    <string name="historicalsitesactivity">Historical Sites</string>
+    <string name="Museumsactivity">Museums</string>
+    <string name="parksactivity">Parks</string>
+
+    <string name="museum1_name">National Museum of Natural History</string>
+    <string name="museum1_address">10th St. &amp; Constitution Ave. NW, Washington, DC 20560</string>
+    <string name="museum1_phone">(202) 633-1000</string>
+    <string name="museum1_hrs">10AM-5:30PM</string>
+
+    <string name="museum2_name">National Air and Space Museum</string>
+    <string name="museum2_address">600 Independence Ave SW, Washington, DC 20560</string>
+    <string name="museum2_phone">(202) 633-2214</string>
+    <string name="museum2_hrs">10AM-5:30PM</string>
+
+    <string name="museum3_name">National Museum of African American History and Culture</string>
+    <string name="museum3_address">1400 Constitution Ave NW, Washington, DC 20560</string>
+    <string name="museum3_phone">(844) 750-3012</string>
+    <string name="museum3_hrs">10AM-5:30PM</string>
+
+    <string name="museum4_name">National Museum of American History</string>
+    <string name="museum4_address">14th St and Constitution Ave, NW, Washington, DC 20001</string>
+    <string name="museum4_phone">(202) 633-1000</string>
+    <string name="museum4_hrs">10AM-5:30PM</string>
+
+    <string name="museum5_name">Smithsonian American Art Museum</string>
+    <string name="museum5_address">8th and F Streets, NW, Washington, DC 20004</string>
+    <string name="museum5_phone">(202) 633-1000</string>
+    <string name="museum5_hrs">10AM-5:30PM</string>
+
+    <string name="museum6_name">Hirshhorn Museum and Sculpture Garden</string>
+    <string name="museum6_address">Independence Ave SW, Washington, DC 20024</string>
+    <string name="museum6_phone">(202) 633-4674</string>
+    <string name="museum6_hrs">10AM-5:30PM</string>
+
+    <string name="restaurant1_name">Founding Farmers DC</string>
+    <string name="restaurant1_address">1924 Pennsylvania Ave NW, Washington, DC 20006</string>
+    <string name="restaurant1_phone">(202) 822-8783</string>
+    <string name="restaurant1_hrs">7AM–11PM</string>
+    <string name="restaurant1_ratings">3.0</string>
+
+    <string name="restaurant2_name">Zaytinya</string>
+    <string name="restaurant2_address">701 9th St NW, Washington, DC 20001</string>
+    <string name="restaurant2_phone">(202) 638-0800</string>
+    <string name="restaurant2_hrs">11AM–11PM</string>
+    <string name="restaurant2_ratings">4.4</string>
+
+    <string name="restaurant3_name">Le Diplomate</string>
+    <string name="restaurant3_address">1601 14th St NW, Washington, DC 20009</string>
+    <string name="restaurant3_phone">202) 332-3333</string>
+    <string name="restaurant3_hrs">5–11PM</string>
+    <string name="restaurant3_ratings">4.5</string>
+
+    <string name="restaurant4_name">Rasika</string>
+    <string name="restaurant4_address">633 D St NW, Washington, DC 20004</string>
+    <string name="restaurant4_phone">202) 637-1222</string>
+    <string name="restaurant4_hrs">11:30AM–2:30PM, 5:30–10:30PM</string>
+    <string name="restaurant4_ratings">4.2</string>
+
+    <string name="restaurant5_name">Fiola</string>
+    <string name="restaurant5_address">601 Pennsylvania Ave NW, Washington, DC 20004</string>
+    <string name="restaurant5_phone">(202) 628-2888</string>
+    <string name="restaurant5_hrs">11:30AM–2:30PM, 5–10:30PM</string>
+    <string name="restaurant5_ratings">4.2</string>
+
+    <string name="historicalsite1_name">Carter G Woodson Home National Historic Site</string>
+    <string name="historicalsite1_address">1538 9th St NW, Washington, DC 20001</string>
+    <string name="historicalsite1_phone">(202) 673-2402</string>
+    <string name="historicalsite1_hrs"></string>
+
+    <string name="historicalsite2_name">National Woman\'s Party at Belmont-Paul Women\'s Equality National Monument</string>
+    <string name="historicalsite2_address">144 B Constitution Ave NE, Washington, DC 20002</string>
+    <string name="historicalsite2_phone">(202) 546-1210</string>
+    <string name="historicalsite2_hrs">9AM–5PM</string>
+
+    <string name="historicalsite3_name">United States Capitol</string>
+    <string name="historicalsite3_address">East Capitol St NE &amp; First St SE, Washington, DC 20004</string>
+    <string name="historicalsite3_phone">(202) 226-8000</string>
+    <string name="historicalsite3_hrs">8:30AM–4:30PM</string>
+
+    <string name="historicalsite4_name">DC Preservation League</string>
+    <string name="historicalsite4_address">1221 Connecticut Ave NW #5A, Washington, DC 20036</string>
+    <string name="historicalsite4_phone">(202) 783-5144</string>
+    <string name="historicalsite4_hrs"></string>
+
+    <string name="historicalsite5_name">Ford\'s Theatre</string>
+    <string name="historicalsite5_address">511 10th St NW, Washington, DC 20004</string>
+    <string name="historicalsite5_phone">(202) 347-4833</string>
+    <string name="historicalsite5_hrs"></string>
+
+    <string name="parksite1_name">Fort Circle Parks</string>
+    <string name="parksite1_address">Washington, DC 20017</string>
+    <string name="parksite1_phone">(202) 673-7647</string>
+    <string name="parksite1_perimeter">3.7</string>
+    <string name="parksite1_hrs">Open 24 hrs</string>
+
+    <string name="parksite2_name">Rock Creek Park</string>
+    <string name="parksite2_address">Washington, DC 20015</string>
+    <string name="parksite2_phone">(202) 895-6000</string>
+    <string name="parksite2_perimeter">6.2</string>
+    <string name="parksite2_hrs">Open 24 hrs</string>
+
+    <string name="parksite3_name">United States National Arboretum</string>
+    <string name="parksite3_address">3501 New York Ave NE, Washington, DC 20002</string>
+    <string name="parksite3_phone">(202) 245-2726</string>
+    <string name="parksite3_perimeter">5.6</string>
+    <string name="parksite3_hrs">8AM-5PM</string>
+
+    <string name="parksite4_name">Meridian Hill Park</string>
+    <string name="parksite4_address">2400 15th St NW, Washington, DC 20009</string>
+    <string name="parksite4_phone">(202) 895-6000</string>
+    <string name="parksite4_hrs">7AM-7PM</string>
+
+    <string name="parksite5_name">Fort Dupont Park</string>
+    <string name="parksite5_address">Minnesota Ave SE, Washington, DC 20019</string>
+    <string name="parksite5_phone">202) 426-7723</string>
+    <string name="parksite5_hrs">9AM-4:30PM</string>
+</resources>
