@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Prasoon Gupta\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.4.0\ea392375cf9ff59234a82e7928a204215ccc98cd\butterknife-annotations-8.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="C:\Users\Prasoon Gupta\Google Drive\Android_programming\NewsFeedApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-annotations-8.4.0_158a3aae567f3552039b9a9fe2a713a2ee0b9c43\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Prasoon Gupta\Google Drive\Android_programming\NewsFeedApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\Prasoon Gupta\Google Drive\Android_programming\NewsFeedApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_52743b76c185fcf14e4c41aeed54a7a9ad1a4525\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Prasoon Gupta\Google Drive\Android_programming\NewsFeedApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\Prasoon Gupta\Google Drive\Android_programming\NewsFeedApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_302516eea1a871becc4ed279f47956be8b1176a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Prasoon Gupta\Google Drive\Android_programming\NewsFeedApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\Prasoon Gupta\Google Drive\Android_programming\NewsFeedApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_e6b42a97daf32fc67d4b80d365f68a4ea98925a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Prasoon Gupta\Google Drive\Android_programming\NewsFeedApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\Prasoon Gupta\Google Drive\Android_programming\NewsFeedApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_75382b457d9ff8832053966958a22db54d9c6479\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Prasoon Gupta\Google Drive\Android_programming\NewsFeedApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\Prasoon Gupta\Google Drive\Android_programming\NewsFeedApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_857f8a1aefe1878e7a0e56b27499d47439369686\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Prasoon Gupta\Google Drive\Android_programming\NewsFeedApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\Prasoon Gupta\Google Drive\Android_programming\NewsFeedApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_7f4c58139e680583d8f74d069dec016fd014c4bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Prasoon Gupta\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\Prasoon Gupta\Google Drive\Android_programming\NewsFeedApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_4ab6f25bc7d53030782c1df8852906967efe162d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Prasoon Gupta\Google Drive\Android_programming\NewsFeedApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8bb1b73c37defbd6af788c7ab66f448a32f7bdc7">
+        <dex dex="C:\Users\Prasoon Gupta\Google Drive\Android_programming\NewsFeedApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_06604eff7afac423802bc0949676e736f40254a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Prasoon Gupta\Google Drive\Android_programming\NewsFeedApp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="C:\Users\Prasoon Gupta\Google Drive\Android_programming\NewsFeedApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.0_54be86dc0089213f99295eee401eae4e25bdf6dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Prasoon Gupta\Google Drive\Android_programming\NewsFeedApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\Prasoon Gupta\Google Drive\Android_programming\NewsFeedApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_e3225284359d0a9f1d2783f66f6a6fbbcfc0b6b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Prasoon Gupta\Google Drive\Android_programming\NewsFeedApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\Prasoon Gupta\Google Drive\Android_programming\NewsFeedApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_055d8427ba7e520365076b0d2f14137ab713256d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Prasoon Gupta\Google Drive\Android_programming\NewsFeedApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2f9d190c8012f842d22f1ce4cc4a41e9f74d9cc9">
+        <dex dex="C:\Users\Prasoon Gupta\Google Drive\Android_programming\NewsFeedApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_ca945a387cc77af6ad4a45e2d6683e912f76db2c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Prasoon Gupta\Google Drive\Android_programming\NewsFeedApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\Prasoon Gupta\Google Drive\Android_programming\NewsFeedApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_1e625498b520763641846ab4e7c6f42ab8a3195e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Prasoon Gupta\Google Drive\Android_programming\NewsFeedApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\Prasoon Gupta\Google Drive\Android_programming\NewsFeedApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_b78baa87cab9cb8e8164df55a2071335e0ea3daa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Prasoon Gupta\Google Drive\Android_programming\NewsFeedApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\Prasoon Gupta\Google Drive\Android_programming\NewsFeedApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_ea0f8ee1efcea08735809e1d3449a2b8d10c5b37\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Prasoon Gupta\Google Drive\Android_programming\NewsFeedApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\Prasoon Gupta\Google Drive\Android_programming\NewsFeedApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_f36b38e9e55f91a25f2a08e2e9ca6e0bbd841e49\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Prasoon Gupta\Google Drive\Android_programming\NewsFeedApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\Prasoon Gupta\Google Drive\Android_programming\NewsFeedApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_b05d5286eee9978445e2304762099c093c40c480\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Prasoon Gupta\Google Drive\Android_programming\NewsFeedApp\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="C:\Users\Prasoon Gupta\Google Drive\Android_programming\NewsFeedApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jakewharton-butterknife-8.4.0_291d85fb6737942da8e50acd8ac6a1e790547a31\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Prasoon Gupta\Google Drive\Android_programming\NewsFeedApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\Prasoon Gupta\Google Drive\Android_programming\NewsFeedApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.0_0bce396943315d0398d3340da19de6ea98ec03b4\classes.dex" />
+    </item>
+
+</items>
