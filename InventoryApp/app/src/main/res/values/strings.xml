@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">InventoryApp</string>
+
+    <string name="unknown_uri_query">Querying unkown uri</string>
+
+    <string name="inventory_requires_a_name">Enter name for the inventory</string>
+    <string name="inventory_stock_requires_a_value">Inventory stock needs a value</string>
+    <string name="inventory_sold_item_requires_a_value">Inventory sold item requires a value</string>
+    <string name="inventory_supplier_requires_a_value">Inventory_supplier_requires_a_value</string>
+
+    <string name="insert_operation_was_not_successful">Insert was not successful</string>
+
+    <string name="empty_view_text">There is no inventory</string>
+    <string name="instruction_to_fill">Click on menu to insert items</string>
+    <string name="inventory_name_text">Item name:</string>
+    <string name="inventory_stock_text">Stock:</string>
+    <string name="category_activity_inventory_sold">Sold:</string>
+    <string name="inventory_sold_text">Items sold:</string>
+    <string name="inventory_supplier_text">Supplier\'s web address:</string>
+    <string name="inventory_price_text">Price:</string>
+    <string name="order_from_supplier">Order from the supplier</string>
+    <string name="invalid_email">Invalid Email</string>
+    <string name="url_hint">eg. https://www.google.com</string>
+
+    <string name="upButton_text">+</string>
+    <string name="downButton_text">-</string>
+
+    <string name="default_stock">0</string>
+    <string name="default_sold">0</string>
+
+    <string name="insert_failed">Insert failed</string>
+    <string name="insert_successful">Insert successful</string>
+
+    <string name="update_failed">Update failed</string>
+    <string name="update_successful">Update successful</string>
+
+    <string name="delete_failed">Delete failed</string>
+    <string name="delete_successful">Delete successful</string>
+
+    <string name="menu_catalog_insert">Insert</string>
+
+    <string name="menu_editor_save">Save</string>
+    <string name="menu_editor_delete">Delete</string>
+
+    <string name="enter_inventory_name">Inventory requires a name</string>
+
+    <string name="update_not_spoorted">Update not supported for uri:</string>
+    <string name="delete_not_supported">Delet not supported for uri:</string>
+    
+    <string name="editor_activity_name_hint">Inventory name</string>
+    <string name="editor_activity_supplier_hint">Supplier</string>
+    <string name="editor_activity_price_hint">Price</string>
+    <string name="editor_activity_price_text">Price:</string>
+    <string name="editor_activity_dollar_text">$</string>
+    <string name="editor_activity_default_price_text">0</string>
+    <string name="add_an_image_button">Add an Image</string>
+    <string name="change_the_image_button">Change the image</string>
+
+    <string name="editor_activity_enter_a_valid_price">Enter a valid price</string>
+    <string name="editor_activity_enter_a_valid_stock">Enter a valid stock number</string>
+    <string name="editor_activity_enter_a_valid_sold_number">Enter a valid sold number</string>
+    <string name="editor_activity_select_a_valid_image">Select a valid image</string>
+    
+    <string name="discard_changes_message">Discard changes or keep editing?</string>
+    <string name="positive_button_message">Keep editing</string>
+    <string name="negative_button_message">Discard</string>
+
+    <string name="delete_inventory_message">Press yes to delete the item or cancel to return</string>
+    <string name="delete_inventory_positive_button">Yes</string>
+    <string name="delete_inventory_negative_button">Cancel</string>
+
+    <string name="update_inventory_title">Update inventory</string>
+    <string name="add_inventory">Add inventory</string>
+    <string name="category_activity_title">Inventory list</string>
+
+    <string name="unable_to_create_image_file">Unable to create image file</string>
+
+
+</resources>
